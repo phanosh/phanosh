@@ -5,4 +5,4 @@
 
  When not building something, I usually ride bikes and lift weights.
 
-[linkedin](https://www.linkedin.com/in/phanosha/) | [X](https://twitter.com/phanosha) 
+[Website](phanosh.github.io) | [linkedin](https://www.linkedin.com/in/phanosha/) | [X](https://twitter.com/phanosha) 
