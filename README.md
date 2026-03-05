@@ -1,8 +1,7 @@
-### ✌️ Hi, I'm Phanos
+# Phanos Hadjikyriakou
 
-- 🔭 I'm currently mainly building [2050 Materials](https://2050-materials.com/)
-- 🌱 And I'm also learning Design | AI Engineering | Fermentation cooking
+Builder and tinkerer. Previously founded and sold [2050 Materials](https://2050-materials.com/). Now leading WLCA at [Once For All](https://onceforall.com).
 
- When not building something, I usually ride bikes and lift weights.
+I love deep work but hate what sitting for 10 hours a day does to your body. Building something about that — more soon.
 
-[Website](https://phanosh.github.io/) | [linkedin](https://www.linkedin.com/in/phanosha/) | [X](https://twitter.com/phanosha) 
+[phanosha.com](https://phanosha.com) · [x](https://twitter.com/phanosha) · [linkedin](https://www.linkedin.com/in/phanosha/)
